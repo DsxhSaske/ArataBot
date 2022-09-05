@@ -1,28 +1,4 @@
-# `𝑁𝑜𝑡 𝐽ℎ𝑢𝑧-𝑀𝐷 `
-
-### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/50257681618" target="blank"><img src="https://img.shields.io/badge/JHUSZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-> NO BOT
-
-### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
-
-### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
-```bash
-[❗] FALLAS POR EL MOMENTO EN HEROKU, SE TRABAJA EN SOLUCIONAR ERRORES.
-AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PARTE:
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO ES RECOMENDABLE USAR EL BOT EN HEROKU!
-```
-
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/IdkJhus/NotJhuz-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/IdkJhus/NotJhuz-MD/blob/master/config.js)
-
+# `DsxhSaske `
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
@@ -88,6 +64,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-`𝑁𝑜𝑡 𝐽ℎ𝑢𝑧-𝑀𝐷 __________ By Jhusz?`
+`DsxhSaske & Jhuz`
 
 
